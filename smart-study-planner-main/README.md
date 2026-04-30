@@ -2,7 +2,8 @@
 
 A premium, SaaS-style dashboard built with Python and Streamlit that optimizes study schedules using a **Dynamic Greedy Algorithm**.
 
-![Dashboard Preview](screenshot.png)
+<img width="1600" height="788" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/ad7ae697-be4b-4795-8d69-5c84e5d3135e" />
+
 
 ## 🚀 Key Features
 
